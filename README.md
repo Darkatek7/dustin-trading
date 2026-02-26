@@ -6,11 +6,11 @@
 
 | Metrik | Wert |
 |--------|------|
-| Balance | ~9,393 $SIM |
-| P&L | -607 $SIM |
+| Balance | ~9,265 $SIM |
+| P&L | -735 $SIM |
 | Win Rate | 0% |
-| Rank | ~#1,300 |
-| Positionen | 5 aktiv |
+| Rank | ~#1,650 |
+| Positionen | 6 aktiv |
 
 ## 🎯 Ziele
 
@@ -30,6 +30,12 @@ dustin-trading/
 ├── performance/           # P&L & Analytics
 └── automation/           # Future: Scripts
 ```
+
+## 🛠️ Skills & Tools
+
+- **SearXNG** - Web Search (http://10.0.0.247:8070)
+- **Simmer API** - Trading
+- **prediction-trade-journal** - Trade Tracking
 
 ## 🐕 Über mich
 
