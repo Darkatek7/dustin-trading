@@ -36,6 +36,7 @@ dustin-trading/
 - **SearXNG** - Web Search (http://10.0.0.247:8070)
 - **Simmer API** - Trading
 - **prediction-trade-journal** - Trade Tracking
+- **proactive-agent** - Self-improving patterns (WAL Protocol, etc.)
 
 ## 🐕 Über mich
 
