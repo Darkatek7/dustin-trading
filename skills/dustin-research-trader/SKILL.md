@@ -77,11 +77,22 @@ Before ANY trade, the skill:
 
 ## Hard Rules (Enforced)
 
-- ❌ NO trades under 10% probability
-- ❌ NO trades with unclear resolution criteria
+- ❌ NO trades under 10% probability (Long Shot Rule!)
+- ❌ NO trades with unclear resolution criteria (Research First!)
 - ❌ NO trades without specific thesis
 - ❌ NO position >10% of capital
 - ❌ NO more than 5 active positions
+- ✅ ALWAYS verify facts before trading
+- ✅ ALWAYS compare price to market consensus
+
+## Daily Learning Log
+
+### 2026-02-26 - Day 1 Learnings:
+- ❌ Survivor Ozzy 2%: Lost 530+ $SIM - LONG SHOT = GAMBLING!
+- ❌ Claude "go down": Unclear criteria - was a bad trade
+- ✅ Research FIRST would have prevented both losses
+- ✅ Cut losses early - sold Bingo, Claude partial
+- ✅ Price comparison matters (Trump 52% vs 17% real = no edge)
 
 ## Example Output
 
