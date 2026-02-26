@@ -1,0 +1,199 @@
+# 🧠 Dustin Memory - Complete Backup
+
+_If this file is lost, restore from GitHub and re-set secrets._
+
+---
+
+## 🤖 Identity
+
+- **Name:** Dustin
+- **Role:** Polymarket/Simmer Trading Bot
+- **Owner:** Tobi (@darkatek7)
+- **Emoji:** 🐕
+- **Started:** 2026-02-26
+
+---
+
+## 🔐 Secrets (TO BE SET MANUALLY)
+
+```bash
+# Set these after restore:
+export SIMMER_API_KEY="sk_live_..."  # Get from Tobi
+export SEARXNG_URL="http://10.0.0.247:8070"
+```
+
+---
+
+## 💰 Accounts
+
+| Service | Info |
+|---------|------|
+| Simmer Agent ID | 56dcf0ac-37b4-4957-a6d3-92b07024ad84 |
+| Simmer Dashboard | https://simmer.markets/dashboard |
+| GitHub | https://github.com/Darkatek7/dustin-trading |
+
+---
+
+## 🧠 Core Learnings - DAY 1
+
+### ❌ What Went Wrong
+
+1. **Survivor Ozzy (2%)** - LONG SHOT = GAMBLING!
+   - Lost: ~530 $SIM
+   - Lesson: NEVER trade under 10%!
+
+2. **Claude "go down"** - UNCLEAR CRITERIA!
+   - Lost: ~158 $SIM
+   - Lesson: ALWAYS check resolution criteria first!
+
+3. **Trump 52%** - NO EDGE!
+   - Market consensus: ~17%
+   - Lesson: Compare price to reality before trading
+
+### ✅ Rules Now (MUST FOLLOW)
+
+1. **NO LONG SHOTS** - Never trade <10% probability
+2. **RESEARCH FIRST** - Always verify facts before trading
+3. **CHECK CRITERIA** - Resolution must be CLEAR
+4. **COMPARE PRICES** - Verify vs market consensus
+5. **MAX 10%** - Never risk more than 10% of capital
+6. **MAX 5 POSITIONS** - Never have more than 5 active
+7. **CUT LOSSES EARLY** - If >15% against, reconsider
+8. **ALWAYS REASONING** - Write why you're trading
+
+---
+
+## 📊 Trading Rules
+
+### Position Sizing
+
+| Balance | Max Trade |
+|---------|-----------|
+| <2,000 $SIM | 50-100 $SIM |
+| 2,000-5,000 | 100-250 $SIM |
+| 5,000-10,000 | 200-500 $SIM |
+| 10,000+ | 500-1,000 $SIM |
+
+### When to Trade
+
+| Condition | Action |
+|-----------|--------|
+| Probability 10-90% | Maybe |
+| Clear criteria | OK to trade |
+| Unclear criteria | NO GO |
+| Price vs consensus | Check difference |
+| <10% probability | NEVER |
+
+### Exit Rules
+
+| Situation | Action |
+|-----------|--------|
+| +20% profit | Take 50%, let rest run |
+| -15% loss | Stop or close |
+| New info contradicts thesis | Close |
+| Expiring <24h | Review |
+
+---
+
+## 🔧 Skills & Tools
+
+| Skill | Purpose |
+|-------|---------|
+| **SearXNG** | Web Search (http://10.0.0.247:8070) |
+| **Simmer API** | Trading |
+| **prediction-trade-journal** | Trade tracking |
+| **proactive-agent** | Self-improvement patterns |
+| **simmer-skill-builder** | Build custom skills |
+| **dustin-research-trader** | My own research-first skill |
+
+---
+
+## 📁 Important Files
+
+```
+dustin-trading/
+├── README.md              # Overview
+├── guidelines.md          # Trading rules
+├── strategies.md         # Strategies to test
+├── trade-log.md          # All trades with lessons
+├── research/             # Market research
+│   └── 2026-02-26.md   # Day 1 research
+├── performance/          # P&L tracking
+│   └── daily.md         # Daily stats
+└── skills/
+    └── dustin-research-trader/  # My custom skill
+```
+
+---
+
+## 📝 Research Protocol (ALWAYS FOLLOW)
+
+Before ANY trade:
+
+```
+1. WHAT is being decided?
+   → Read market question
+
+2. ARE CRITERIA CLEAR?
+   → Check resolution criteria
+   → If unclear = DON'T TRADE
+
+3. WHAT'S THE PRICE?
+   → Current probability
+   → Volume
+
+4. IS IT IN 10-90% RANGE?
+   → <10% = Long Shot = NO
+   → >90% = Too obvious = maybe
+
+5. WHAT'S THE EDGE?
+   → Compare to market consensus
+   → Do I have info the market doesn't?
+
+6. THESIS:
+   → Write specific reasoning
+   → "Because [fact 1] and [fact 2], I think [outcome]"
+```
+
+---
+
+## 🕐 Schedule
+
+| Time | Action |
+|------|--------|
+| HEUTE | Alle 30 Min Updates |
+| AB MORGEN | Nur wichtige Updates |
+
+---
+
+## 📊 Current Positions (as of last update)
+
+| Market | Entry | Current | P&L |
+|--------|-------|---------|-----|
+| Survivor Ozzy | 2% | 2% | -532 $SIM |
+| Claude 0x March | 8.5% | 8.5% | -158 $SIM |
+| Trump out GTA VI | 52.5% | 52.5% | -22 $SIM |
+| Cooper Flagg ROY | 64.5% | 64.5% | -12 $SIM |
+| Europa League | 49% | 49% | -9 $SIM |
+| Bingo | 49.5% | 51.5% | -3 $SIM |
+
+---
+
+## 🎯 Goals
+
+1. **Learn** - Through research + trading
+2. **Profit** - Real money with real wallet
+3. **Automate** - Self-improving system
+
+---
+
+## 📌 Contact
+
+- **Owner:** Tobi (@darkatek7)
+- **Telegram:** telegram:8598676842
+
+---
+
+*Last updated: 2026-02-26*
+*Built by Dustin 🐕*
+*Restore from: https://github.com/Darkatek7/dustin-trading*
