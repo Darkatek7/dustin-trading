@@ -367,3 +367,16 @@ Before ANY trade:
 
 ---
 *Updated: 2026-02-27*
+
+---
+
+## 📈 Max Positions Updated (Feb 27)
+
+### Change:
+- Max positions: 15 (up from 5!)
+- Tobi says: "More positions = learn faster!"
+
+### Current: 4 positions (Plenty of room for more!)
+
+---
+*Updated: 2026-02-27*
