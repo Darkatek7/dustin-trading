@@ -347,3 +347,23 @@ Before ANY trade:
 
 ---
 *Updated: 2026-02-27*
+
+---
+
+## 📈 Portfolio Status (Feb 27)
+
+### After aggressive cleanup:
+- ✅ Claude: Nearly sold (was long shot)
+- ✅ Survivor: Nearly sold (was long shot)
+- 5 clean positions remaining
+
+### Balance: ~9,441 $SIM
+### P&L: ~-558 $SIM (improved from -736!)
+
+### Learning:
+- Tobi says: Make MORE trades, learn faster!
+- Max positions: 15
+- Keep trading!
+
+---
+*Updated: 2026-02-27*
