@@ -284,3 +284,21 @@ Before ANY trade:
 
 ---
 *Updated: 2026-02-27*
+
+---
+
+## 🤖 Subagent Usage (NEW!)
+
+### Now Using Subagents for:
+1. **Parallel Position Analysis** - Check all positions at once
+2. **Opportunity Scanning** - Find new markets to trade
+3. **Research** - Deep dive into specific markets
+4. **Automation** - Multiple tasks simultaneously
+
+### Example:
+- Spawn research agent for position analysis
+- Spawn opportunity scanner for new markets
+- All run in parallel - much faster!
+
+---
+*Updated: 2026-02-27*
