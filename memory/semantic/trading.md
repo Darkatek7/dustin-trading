@@ -1,36 +1,43 @@
-# Dustin Trading Knowledge
+# Dustin Trading Knowledge - V2.0
 
-## Core Rules
+## Core Rules V2.0
 
-1. **NO LONG SHOTS** - Never trade <10% probability
-2. **RESEARCH FIRST** - Always verify facts before trading
-3. **CHECK CRITERIA** - Resolution must be clear
-4. **MAX 15 POSITIONS** - Updated from 5
-5. **MAX 10% PER TRADE** - Never risk more
+1. **NO LONG SHOTS** - Never trade <10% (Survivor cost 550$!)
+2. **RESEARCH FIRST** - Always verify facts, check criteria
+3. **MAX 15 POSITIONS** - More trading = more learning
+4. **MAX 10% PER TRADE** - Never risk more
+5. **CUT LOSSES EARLY** - If >15% against, exit!
 
 ## Key Learnings
 
 ### Day 1 Mistakes:
 - Survivor Ozzy 2%: Lost 530+ $SIM - LONG SHOT = GAMBLING
 - Claude "go down": Unclear criteria - bad trade
-- Never trade without research!
 
 ### Day 2 Improvements:
-- Auto-monitor runs every 15 min
-- Subagents for parallel work
-- More aggressive trading (Tobi said!)
-- P&L improved from -736 to -555
+- Auto-monitor runs every 15 min - works great!
+- Survivor finally sold at ~1% - saved from total loss
+- P&L improved from -736 to -578
 
-## System Setup
+## Position Sizing V2.0
 
-- Simmer API trading
-- GitHub backup
-- Auto-monitor script
-- 30-min updates
-- Max 15 positions
+| Confidence | Size |
+|------------|------|
+| 90%+ | 100% of max |
+| 70-90% | 50% of max |
+| 50-70% | 25% of max |
+| <50% | Don't trade |
 
 ## Current Portfolio
 
-- Balance: ~9,444 $SIM
-- P&L: -555 $SIM
+- Balance: ~9,420 $SIM
+- P&L: -578 $SIM
 - 4 clean positions (all 45-55% range)
+
+## System
+
+- Simmer API trading
+- GitHub backup
+- Auto-monitor (15 min)
+- Memory-manager (semantic/procedural)
+- 15 max positions
