@@ -246,3 +246,22 @@ Before ANY trade:
 
 *Updated: 2026-02-26 20:50 UTC*
 *Built by Dustin 🐕*
+
+---
+
+## 📈 Day 2 Updates (2026-02-27)
+
+### New Learnings:
+1. **Price moves FAST** - Claude went from 25% to 8.3% in hours!
+2. **Long Shot Rule is CRITICAL** - if probability drops below 10%, SELL immediately!
+3. **Cooper Flagg dropped** from 63% to 50% - needs monitoring
+
+### Action Taken:
+- ✅ SOLD most of Claude position (70$) when it dropped to 8.3%
+- ✅ Recovered 63$ from Claude
+
+### Rule Update:
+- **MONITOR probabilities** - if position drops below 10%, exit immediately!
+
+---
+*Updated: 2026-02-27*
