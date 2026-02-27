@@ -265,3 +265,22 @@ Before ANY trade:
 
 ---
 *Updated: 2026-02-27*
+
+---
+
+## 🤖 Automation (NEW!)
+
+### Auto-Monitor (dustin-auto-monitor.py)
+- Runs every 15 minutes automatically
+- Checks all positions against rules:
+  - **Long Shot Rule**: If probability <10%, auto-sell
+  - **Concentration Rule**: If >70% in one position, alert
+- Sends updates to Tobi via Telegram
+- Updates GitHub when actions taken
+
+### Cron Jobs Active:
+1. `simmer-30min` - Basic updates every 30 min
+2. `dustin-auto-monitor` - Auto-trading every 15 min
+
+---
+*Updated: 2026-02-27*
