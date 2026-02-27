@@ -84,6 +84,8 @@ export SEARXNG_URL="http://10.0.0.247:8070"
 | Price vs consensus | Check difference |
 | <10% probability | NEVER |
 
+### Max Positions: 15 (updated from 5!)
+
 ### Exit Rules
 
 | Situation | Action |
