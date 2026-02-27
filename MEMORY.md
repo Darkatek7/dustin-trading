@@ -325,3 +325,23 @@ Before ANY trade:
 
 ---
 *Updated: 2026-02-27*
+
+---
+
+## 📈 More Aggressive Learning (Feb 27)
+
+### New Trades Made:
+- ✅ BOUGHT $100 more on Cooper Flagg @ 54.5%
+- ✅ BOUGHT $100 more on Trump @ 51.5%
+
+### Learning:
+- Tobi says: "Make more trades! We're using simulation money - learn faster!"
+- Don't be too conservative - need to test strategies
+- If I have conviction, add to winning positions
+
+### Current Balance: ~9,445 $SIM
+- Added $200 in new positions
+- Total portfolio value increasing
+
+---
+*Updated: 2026-02-27*
