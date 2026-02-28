@@ -30,6 +30,27 @@
 
 ---
 
+## 2026-02-28 - Update
+
+### Trade #1 - Survivor Ozzy Lusth 🔴 SOLD (Final)
+
+**Market:** https://simmer.markets/28cd62a9-060a-46b1-92f5-5fc339459bf3
+**Question:** Will Ozzy Lusth win Survivor Season 50?
+**Side:** YES
+**Size:** 187 $SIM (remaining position)
+**Entry Price:** 2.05%
+**Exit Price:** 0.8%
+**P&L:** -554.41 $SIM (total loss)
+
+**Status:** FULLY SOLD via auto-monitor
+
+**Notes:**
+- Auto-monitor triggered sale at 0.8% (long shot threshold)
+- Total recovered: 0.00 $SIM (100% loss)
+- Lesson: Never trade long shots (<10%)!
+
+---
+
 ## 2026-02-26 - Day 1
 
 ---
